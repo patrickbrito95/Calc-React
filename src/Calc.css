@@ -1,0 +1,27 @@
+button {
+    width: 60px;
+}
+
+.btn-number {
+    margin-top: 50px;
+}
+
+.btn-zero {
+    margin-top: 50px;
+    margin-left: 110px;
+    width: 60px;
+}
+
+.btn-equal {
+    width: 280px;
+    margin-top: 40px;
+}
+
+.btn-commands {
+    margin-top: 20px;
+}
+
+.btn-dot {
+    margin-top: 40px;
+    margin-left: 18px;
+}
